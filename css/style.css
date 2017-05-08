@@ -33,11 +33,12 @@ float: left;
 padding-left: 15px;
 padding-right: 25px;
 line-height: 100px;
+font-size: 60px;
 }
 
 nav ul li a {
 font-family: 'Trebuchet MS';
-font-size: 150px;
+font-size: 22px;
 color: white;
 font-weight: bold;
 text-shadow: -1px 0 #000;
