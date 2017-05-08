@@ -36,7 +36,7 @@ line-height: 100px;
 }
 
 nav ul li a {
-font-family: 'Helvetica', cursive;
+font-family: 'Trebuchet MS';
 font-size: 22px;
 color: white;
 font-weight: bold;
@@ -94,7 +94,7 @@ padding: 20px;
 }
 
 .showcase-text h2 {
-font-family: 'Alegreya SC', serif;
+font-family: 'Times', serif;
 color: white;
 font-size: 36px;
 font-weight: bold;
@@ -102,7 +102,7 @@ margin-bottom: 10px;
 }
 
 .showcase-text p a {
-font-family: 'Alegreya Sans', sans-serif;
+font-family: 'Times', sans-serif;
 color: red;
 font-size: 18px;
 font-weight: bold;
